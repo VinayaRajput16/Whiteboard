@@ -1,0 +1,6 @@
+{
+    "realm": "myrealm",
+    "url": "http://localhost:8080/auth",
+    "clientId": "myclient"
+  }
+  

@@ -1,0 +1,9 @@
+/* DrawingSurface.css */
+
+.drawing-surface {
+    position: relative;
+    flex-grow: 1;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+  }
+  
